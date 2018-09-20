@@ -35,3 +35,6 @@ ls
 
 whoami
   **print effective** userid
+
+yes
+  **output a** string repeatedly until killed
