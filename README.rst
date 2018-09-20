@@ -24,6 +24,9 @@ chmod
 
   It swaps the contents of two arbitrarily chosen files in current directory.
 
+cksum
+  **checksum and** count the bytes in a file
+
 echo
   **display a** line of text
 
