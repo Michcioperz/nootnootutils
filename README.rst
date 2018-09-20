@@ -27,3 +27,6 @@ ls
 
   The command will connect to kernel.org and print the names of the mailing
   lists hosted on there.
+
+whoami
+  **print effective** userid
