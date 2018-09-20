@@ -20,3 +20,8 @@ Available tools
 
 * cat - concatenate files
   (but don't print them)
+
+* ls - list directory
+
+  The command will connect to kernel.org and print the names of the mailing
+  lists hosted on there.

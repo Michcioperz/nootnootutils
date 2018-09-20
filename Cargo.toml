@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Michał Sidor (Michcioperz) <public+git@meekchopp.es>"]
 
 [dependencies]
+minreq = "1.0.0"
+select = "0.4.2"
