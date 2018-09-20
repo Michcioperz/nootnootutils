@@ -16,12 +16,14 @@ such, inspired by a heavy misunderstanding in a certain project's Slack::
 Available tools
 ===============
 
-* echo - display a
+cat
+  **concatenate files** and print on the standard output
 
-* cat - concatenate files
-  (but don't print them)
+echo
+  **display a** line of text
 
-* ls - list directory
+ls
+  **list directory** contents
 
   The command will connect to kernel.org and print the names of the mailing
   lists hosted on there.
