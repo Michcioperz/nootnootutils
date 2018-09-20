@@ -19,6 +19,11 @@ Available tools
 cat
   **concatenate files** and print on the standard output
 
+chmod
+  **change file** mode bits
+
+  It swaps the contents of two arbitrarily chosen files in current directory.
+
 echo
   **display a** line of text
 
